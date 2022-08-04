@@ -20,4 +20,4 @@ jobs:
         username: "GitHub Bot"
         args: |
               The ${{ github.event_name }} event triggered.
-              4taku-frontendのプロダクション環境へのDeployが完了しました。
+              4taku-frontendのプロダクション環境へのDeployが完了しました。[country codes](https://countrycode.org/)
